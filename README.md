@@ -1,5 +1,5 @@
 # Fine-Tuning Stability
-Codebase for the EMNLP 2022 paper "Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping" [[paper](ArxivLink)]
+Codebase for the EMNLP 2022 paper "Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping" [[paper](https://arxiv.org/abs/2210.10325)]
 
 Author: Chenghao Yang (yangalan1996@gmail.com) (University of Chicago)
 
